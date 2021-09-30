@@ -1,0 +1,16 @@
+You	0
+Oscar	0
+Nkosi	1
+Jordan	0
+You	0
+Oscar	0
+Nkosi	0
+Jordan	11
+You	1
+Oscar	10
+Nkosi	0
+Jordan	0
+You	6
+Oscar	6
+Nkosi	1
+Jordan	13

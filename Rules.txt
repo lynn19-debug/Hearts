@@ -1,0 +1,29 @@
+---------------
+Rules of Hearts
+---------------
+
+OBJECT OF THE GAME
+------------------
+To be the player with the lowest score at the end of the game.
+When everyone runs out of cards the game ends; and the player with the lowest score wins.
+
+CARD VALUES/SCORING
+-------------------
+At the end of each hand, players count the number of hearts they have taken as well as the queen of spades.
+Hearts count as one point each and the Queen of Spaces counts 13 points.
+Each heart - 1 point
+The Q of Spades - 13 points
+The aggregate total of all scores for each game must be 26 points.
+
+THE DEAL
+________
+Cards are dealt one at a time, clockwise. In a four-player game, each is dealt 13 cards.
+
+THE PLAY
+________
+The player holding the 2 of clubs after the pass makes the opening lead.
+Each player must follow suit if possible. If a player is void of the suit led, a card of any other suit may be discarded.
+The highest card of the suit led wins a trick and the winner of that trick leads next.
+
+
+
